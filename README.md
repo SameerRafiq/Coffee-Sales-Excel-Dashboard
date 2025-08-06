@@ -1,5 +1,3 @@
-This project features an interactive **Coffee Sales Dashboard** designed in **Microsoft Excel** to monitor and analyze key sales metrics for a coffee business. The dashboard provides a real-time view of sales performance across products, regions, and time periods.
-
 # ☕ Coffee Sales Dashboard (Excel Project)
 
 This project features an interactive **Coffee Sales Dashboard** designed in **Microsoft Excel** to monitor and analyze key sales metrics for a coffee business. The dashboard provides a real-time view of sales performance across products, regions, and time periods.
